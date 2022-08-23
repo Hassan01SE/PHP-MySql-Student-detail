@@ -57,7 +57,7 @@ $result = mysqli_query($con, "INSERT INTO student(name,age,Roll) VALUES('$name',
 
 ?>
 
-<!-- For Deletion of record, have to refresh  -->
+<!-- For Deletion of record -->
 <?php
 
 if (isset($_GET['del'])){
