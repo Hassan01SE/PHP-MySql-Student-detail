@@ -1,5 +1,4 @@
 # PHP-MySql-Student-detail
 Allow insertion and deletion of student record
 
-Webpage live preview
-https://studentformdetail.000webhostapp.com/
+Import the SQL file to your MyPhp database(should have same name as the sql file) 
